@@ -1,5 +1,5 @@
 {
-  "name": "se-react-date-range",
+  "name": "lt-react-date-range",
   "version": "1.0.46",
   "main": "dist/component.js",
   "scripts": {
@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seancy/se-react-date-range.git"
+    "url": "git+https://github.com/Learningtribes/lt-react-date-range.git"
   },
   "keywords": [
     "react",
@@ -65,8 +65,8 @@
     "range"
   ],
   "bugs": {
-    "url": "https://github.com/seancy/se-react-date-range/issues"
+    "url": "https://github.com/Learningtribes/lt-react-date-range/issues"
   },
-  "homepage": "https://github.com/seancy/se-react-date-range#readme",
+  "homepage": "https://github.com/Learningtribes/lt-react-date-range#readme",
   "description": "scope element dropdown DateEange"
 }
